@@ -1,2 +1,2 @@
 # Vibrate
-A mobile that the only function it has is to vibrate
+A mobile app that the only function it has is to vibrate
